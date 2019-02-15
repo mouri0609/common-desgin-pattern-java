@@ -8,8 +8,8 @@ import java.util.Observable;
 public class StockData extends Observable {
 
 //    boolean flag;
+    float range;
 
-    private StockData() {}
 
     public StockData(range){
         this.range = range;

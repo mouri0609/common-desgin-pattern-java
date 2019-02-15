@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19181426-33df-4561-8293-9471106c6c09" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/designPattern/Observer/StockData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/designPattern/Observer/Stockers.java" afterDir="false" />
       <change beforePath="D:/.gitignore" beforeDir="false" />
@@ -114,41 +115,30 @@
       <change beforePath="D:/themes/landscape/source/fancybox/jquery.fancybox.pack.js" beforeDir="false" />
       <change beforePath="D:/themes/landscape/source/js/script.js" beforeDir="false" />
       <change beforePath="D:/themes/next" beforeDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/sort/IntersectionInterger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/sort/IntersectionInterger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/sort/ValidLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/sort/ValidLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/sort/leetcode_ArrayIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/sort/leetcode_ArrayIntersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/sort/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/sort/mergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/sortJiOuArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/sortJiOuArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/tree/AddTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/tree/AddTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/tree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/tree/BinaryTreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/tree/BinaryTreeDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/code/tree/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/code/tree/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/GifPictureFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/GifPictureFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/GifPictureFormatFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/GifPictureFormatFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/PictureFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/PictureFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/PictureFormatFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/PictureFormatFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/FactoryMethodPattern/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/flySpeedImplements/SubSonicFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/flySpeedImplements/SubSonicFly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/startBehaviorImplements/LongDistanceTakeOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/startBehaviorImplements/LongDistanceTakeOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/startBehaviorImplements/VerticalTakeOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/startBehaviorImplements/VerticalTakeOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/Strategy/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/CircleShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/CircleShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/DrawShapeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/DrawShapeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/TriggleShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/TriggleShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/concreteShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/src/designPattern/simpleFactory/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.21.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/common_desgin_pattern_java$test__1_.ic" NAME="test (1) Coverage Results" MODIFIED="1549683876348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>designPattern.Strategy.*</FILTER>
+    </SUITE>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1830623874">
@@ -185,28 +175,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
         <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="234">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="GifPictureFormat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/GifPictureFormat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="130">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name="PictureFormat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PictureFormatFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormatFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fighter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/Fighter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
         <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="364">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
@@ -281,50 +306,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="common-desgin-pattern-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-desgin-pattern-java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="common-desgin-pattern-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-desgin-pattern-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="common-desgin-pattern-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-desgin-pattern-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="common-desgin-pattern-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-desgin-pattern-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="Observer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="common-desgin-pattern-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-desgin-pattern-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550236878591" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548841000590" />
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.45579794" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -343,7 +386,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPattern.Strategy.test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPattern.Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPattern.FactoryMethodPattern.test" />
       <module name="DesignPattern" />
@@ -353,13 +406,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -385,6 +440,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17571884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -396,17 +452,47 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32594234" />
+=======
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.325" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32826087" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32594234" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
+=======
+>>>>>>> ca87cd1f11bce0643ce16ab0b2b9b9b1e8c59a0a
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -425,14 +511,98 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="234">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/GifPictureFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormatFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/GifPictureFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormatFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/GifPictureFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="130">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
@@ -449,7 +619,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/GifPictureFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/PictureFormatFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/Strategy/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/FactoryMethodPattern/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
