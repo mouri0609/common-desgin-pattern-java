@@ -7,15 +7,14 @@ import java.util.Observable;
  */
 public class StockData extends Observable {
 
-//    boolean flag;
-    float range;
+    float initPrice = 100;
+    float currentPrice = 106;
 
-
-    public StockData(range){
-        this.range = range;
-        System.out.println("rise");
-
-        setChanged();
+    public void publishMessage(){
+        if((currentPrice-initPrice)/initPrice>0.05){
+            setChanged();
+            System.out.println("the stockPrice  rise up to "+currentPrice+"!");
+        }
         notifyObservers();
     }
 }
