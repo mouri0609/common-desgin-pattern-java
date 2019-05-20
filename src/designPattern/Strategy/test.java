@@ -14,6 +14,7 @@ public class test {
 
         helicopter.setStart(new LongDistanceTakeOff());
         helicopter.performStart();
+        System.out.println("=======================");
 
         Plane fighter = new Fighter();
         fighter.performFly();
