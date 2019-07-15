@@ -8,7 +8,10 @@ public class test {
         PictureFormatFactory pictureFormatFactory;
         PictureFormat pictureFormat;
         pictureFormatFactory = new GifPictureFormatFactory();
-        pictureFormat = pictureFormatFactory.creat();
+        pictureFormat = pictureFormatFactory.create();
         pictureFormat.read();
     }
 }
+/*
+工厂方法可以说是抽象工厂的一个特例，当工厂里只有一种产品的时候，抽象工厂的结构就简化成工厂方法的结构了。
+ */
